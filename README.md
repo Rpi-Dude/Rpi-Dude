@@ -1,6 +1,6 @@
 <h1 align="center">Tech Stack</h1>
 
-<h2 align="center">Programming languages/tools</h2>
+<h2 align="center">Programming languages and tools</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
@@ -10,17 +10,23 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-<h2 align="center">Other tools</h2>
+<h2 align="center">Other</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Discord](https://img.shields.io/badge/discord_api-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Hetzner](https://img.shields.io/badge/hetzner_cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+
+
 
 </div>
 
